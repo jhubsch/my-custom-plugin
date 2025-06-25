@@ -1,0 +1,6 @@
+{
+  "name": "jasonhubsch/my-custom-plugin",
+  "type": "wordpress-plugin",
+  "version": "0.1.0",
+  "description": "A custom plugin for WPVIP testing"
+}
