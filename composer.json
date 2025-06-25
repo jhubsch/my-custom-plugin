@@ -1,12 +1,6 @@
 {
   "name": "jhubsch/my-custom-plugin",
+  "description": "A test plugin for WPVIP Composer setup",
   "type": "wordpress-plugin",
-  "version": "0.1.0",
-  "description": "Custom plugin for WPVIP Composer testing",
-  "autoload": {
-    "psr-4": {
-      "Jhubsch\\MyCustomPlugin\\": "src/"
-    }
-  },
-  "require": {}
+  "version": "0.1.0"
 }
